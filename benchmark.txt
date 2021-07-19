@@ -1,0 +1,15 @@
+=============================
+Elapsed Time: All Columns
+=============================
+  csv.elapsed   dta.elapsed arrow.elapsed 
+       21.647       165.210        85.648 
+=============================
+Elapsed Time: Column 1-10
+=============================
+  csv.elapsed   dta.elapsed arrow.elapsed 
+        8.310         3.281         0.645 
+=============================
+Elapsed Time: Column 1
+=============================
+  csv.elapsed   dta.elapsed arrow.elapsed 
+        7.755         1.646         0.092 
